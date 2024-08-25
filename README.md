@@ -1,1 +1,2 @@
-# i-d-card-generator
+# Java-Miniproject
+Java Miniproject - "ID CARD Generator "
